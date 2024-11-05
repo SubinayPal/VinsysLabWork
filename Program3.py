@@ -1,4 +1,4 @@
-myString = "This is a string."
+myString = "This is a string demo."
 print(myString)
 print(type(myString))
 print(myString + " is of the data type " + str(type(myString)))
